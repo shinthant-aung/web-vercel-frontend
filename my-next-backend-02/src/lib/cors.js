@@ -1,7 +1,7 @@
 let corsHeaders = {
   "Access-Control-Allow-Credentials": "true",
 
-  "Access-Control-Allow-Origin": "http://web-vercel-frontend.vercel.app",
+  "Access-Control-Allow-Origin": "https://web-vercel-frontend.vercel.app",
 
   "Access-Control-Allow-Methods": "GET, POST, PUT, OPTIONS",
 
